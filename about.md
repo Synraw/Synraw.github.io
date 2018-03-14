@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hobby programmer and game hacker
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email:   [me@syn.nz](mailto:me@syn.nz)
+Discord: Syn#6226
